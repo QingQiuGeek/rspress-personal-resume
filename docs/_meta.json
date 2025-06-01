@@ -1,0 +1,13 @@
+[
+	{
+		"text": "Home",
+		"link": "/",
+		"activeMatch": "/home",
+		"position": "left"
+	},
+	{
+		"position": "left",
+		"text": "About",
+		"link": "/about/"
+	}
+]
